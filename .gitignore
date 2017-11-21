@@ -7,3 +7,4 @@ bin/[Rr]eports/
 node_modules/
 npm-debug.log
 update.drp.su/
+*.exe
